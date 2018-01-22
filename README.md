@@ -61,6 +61,7 @@ wheel (0.29.0)
 ```
 
 # psql
+### following commands were used to configure the catalog database user
 ```
 postgres=# CREATE USER catalog WITH PASSWORD 'catalog';
 CREATE ROLE
